@@ -13,19 +13,19 @@
   <tr>
     <td>01</td>
     <td>Scatterplots</td>
-    <td>23 April 2024</td>
+    <td>24 April 2024</td>
     <td></td>
   </tr>
   <tr>
     <td>02</td>
     <td>Bubble chart</td>
-    <td>23 April 2024</td>
+    <td>24 April 2024</td>
     <td></td>
   </tr>
   <tr>
     <td>03</td>
     <td>Line graph</td>
-    <td>23 April 2024</td>
+    <td>24 April 2024</td>
     <td></td>
   </tr>
   <tr>
@@ -56,6 +56,12 @@
     <td>08</td>
     <td>Pie chart</td>
     <td>23 April 2024</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>Heat Map</td>
+    <td>24 April 2024</td>
     <td></td>
   </tr>
 </table>
