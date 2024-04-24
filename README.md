@@ -1,7 +1,4 @@
-#CHENG-WEI, HSUEH's Portfolio
-### Hi there 👋
-
-
+# Hi there 👋, Here is CHENG-WEI, HSUEH's Portfolio
 
 <h2> <i> Data Visualisation </i> </h2>
 <details>
