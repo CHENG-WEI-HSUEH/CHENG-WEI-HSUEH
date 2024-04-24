@@ -14,19 +14,19 @@
     <td>01</td>
     <td>Scatterplots</td>
     <td>24 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>02</td>
     <td>Bubble chart</td>
     <td>24 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>03</td>
     <td>Line graph</td>
     <td>24 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>04</td>
@@ -62,7 +62,7 @@
     <td>09</td>
     <td>Heat Map</td>
     <td>24 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
 </table>
 </details>
