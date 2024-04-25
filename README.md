@@ -38,28 +38,22 @@
     <td>05</td>
     <td>Histogram</td>
     <td>23 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>06</td>
     <td>Boxplot</td>
     <td>23 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>07</td>
-    <td>Treemaps</td>
+    <td>Pie chart</td>
     <td>23 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>08</td>
-    <td>Pie chart</td>
-    <td>23 April 2024</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>09</td>
     <td>Heat Map</td>
     <td>24 April 2024</td>
     <td>✓ </td>
