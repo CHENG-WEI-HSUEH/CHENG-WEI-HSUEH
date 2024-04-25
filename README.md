@@ -32,7 +32,7 @@
     <td>04</td>
     <td>Radar chart</td>
     <td>23 April 2024</td>
-    <td></td>
+    <td>✓ </td>
   </tr>
   <tr>
     <td>05</td>
