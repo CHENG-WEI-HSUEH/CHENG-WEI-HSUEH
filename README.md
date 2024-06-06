@@ -513,55 +513,49 @@
   </tr>
   <tr>
     <td>01</td>
-    <td>Fourier Transform</td>
-    <td>23 April 2024</td>
-    <td></td>
+    <td>Fast Fourier Transform (FFT)</td>
+    <td>4 June 2024</td>
+    <td>✓</td>
   </tr>
   <tr>
     <td>02</td>
-    <td>Fast Fourier Transform (FFT)</td>
-    <td>23 April 2024</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>03</td>
     <td>Laplace Transform</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
   <tr>
-    <td>04</td>
+    <td>03</td>
     <td>Linear Regression</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
 
   <tr>
-    <td>05</td>
+    <td>04</td>
     <td>Ordinary Differential Equations (ODEs)</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
   <tr>
-    <td>06</td>
+    <td>05</td>
     <td>Partial Differential Equations (PDEs)</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
   <tr>
-    <td>07</td>
+    <td>06</td>
     <td>Markov Chains</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
   <tr>
-    <td>08</td>
+    <td>07</td>
     <td>Monte Carlo Simulation</td>
     <td>23 April 2024</td>
     <td></td>
   </tr>
   <tr>
-    <td>09</td>
+    <td>08</td>
     <td>Bayesian Networks</td>
     <td>23 April 2024</td>
     <td></td>
