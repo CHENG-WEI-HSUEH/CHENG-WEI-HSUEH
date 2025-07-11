@@ -319,12 +319,7 @@
 
 </details>
 
-<h2> <i> SQL - Strata Scratch </i></h2>
-<details>
-<summary></summary>
 
-
-</details>
 
 <h2> <i> Web </i> </h2>
 <details>
